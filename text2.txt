@@ -1,1 +1,1 @@
-GIT HUB is the Distributed Version Control System
+GIT HUB is the Distributed Version Control System  and also used for storing and retriving information 
